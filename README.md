@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Thi Thuy HOANG
-- 👀 I’m interested in data science and data analyst
-- 🌱 I’m currently doing data science projects and learn more about data analyst tools such as Power BI and Excel.
--  To improve myself, I am also learn more about data engineering work.  
-- 💞️ I’m looking to work for a company as a role of data science, or data analyst 
+- 👋 Hi, I’m @Thi Thuy HOANG.
+- 👀 After finishing P.hD in biophysics, I’m interested in data science and data analyst.
+- 🌱 I’m currently doing data science projects and learn more about data analyst tools such as Power BI.
+-  To improve myself, I am also learn more about data engineering.  
+- 💞️ I’m looking to work for a job as a role of data science, or data analyst 
 - 📫 Send me an email if you reach out a candidate via email: thi.thuy.hoang.0907@gmail.com
 
 <!---
